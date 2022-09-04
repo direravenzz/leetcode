@@ -11,7 +11,6 @@ public class MainClass {
         }
         else {
             int length = (int) Math.log10(num) + 1;
-            int time = length / 2;
             int sub = 0;
             int secNum;
             int odd = length % 2;
